@@ -1,35 +1,35 @@
 Dist,Produk,Onhand,GIT
 MPI,AB-VASK 10 - Tablet,135,0
 MPI,AB-VASK 5 - Tablet,136,0
-MPI,ACLAM-500 Kaplet,27,0
+MPI,ACLAM-500 Kaplet,25,0
 MPI,ACLAM DS 125mg,135,0
 MPI,ACLAM Forte Dry Syrup 250mg,96,0
-MPI,ALEGI Kaplet,21,20
+MPI,ALEGI Kaplet,0,20
 MPI,AMADIAB-1 Kaplet,9,0
 MPI,AMADIAB-2 Kaplet,16,0
 MPI,AMADIAB-3 Kaplet,41,0
 MPI,AMADIAB-4 Kaplet,16,0
-MPI,ANALTRAM - Kaplet,719,0
-MPI,Apetic Drops,323,0
-MPI,Apetic Forte Suspensi,1420,0
-MPI,Apetic Suspensi,1543,0
-MPI,APIALYS Drops,1858,0
+MPI,ANALTRAM - Kaplet,718,0
+MPI,Apetic Drops,322,0
+MPI,Apetic Forte Suspensi,1402,0
+MPI,Apetic Suspensi,1530,0
+MPI,APIALYS Drops,1842,0
 MPI,APIALYS Syrup,2129,0
 MPI,Apiban Drops,61,0
 MPI,Atorvastatin 10mg,98,0
 MPI,BESTALIN Tablet,5,0
 MPI,Bromex Injeksi,75,0
 MPI,Bromhexine Injeksi,58,0
-MPI,CAL-95 Kaplet,289,280
+MPI,CAL-95 Kaplet,284,280
 MPI,CEBACTAM Injeksi 1 gr,55,0
-MPI,CEFILA 100 - Kapsul,102,0
-MPI,CEFILA 200 - Kapsul,68,160
-MPI,CEFILA DS Drop,226,20
+MPI,CEFILA 100 - Kapsul,87,0
+MPI,CEFILA 200 - Kapsul,58,160
+MPI,CEFILA DS Drop,196,20
 MPI,CEFIM 1g - Injeksi,122,0
-MPI,CEFXON Dry Injection,267,940
+MPI,CEFXON Dry Injection,167,940
 MPI,CIFLON Kaplet,51,0
 MPI,CLINMAS-150 Capsule,5,0
-MPI,CLINMAS-300 Capsule,32,0
+MPI,CLINMAS-300 Capsule,30,0
 MPI,CONBIS - 10 MG,15,0
 MPI,Conbis 5 mg,5,0
 MPI,CRAVOX-500 Tablet,64,0
@@ -40,20 +40,20 @@ MPI,Clopidogrel 75 mg tablet,18,0
 MPI,Colchicine 0.5mg,16,0
 MPI,DC2 Kaplet,22,20
 MPI,Desdin Syrup,116,0
-MPI,DIADIUM Tablet,19,0
+MPI,DIADIUM Tablet,18,0
 MPI,DOM Kaplet,25,0
 MPI,Dexketoprofen 25mg,311,0
 MPI,Enoxrin 4000IU,20,0
 MPI,Enoxrin 6000 IU,111,0
 MPI,Escitalopram 10 mg,35,0
 MPI,Esola Injeksi,129,120
-MPI,Esola 20 mg,21,0
+MPI,Esola 20 mg,19,0
 MPI,Esola 40 mg,11,0
-MPI,Etiro-N,263,0
+MPI,Etiro-N,243,0
 MPI,Erdosteine 300mg kapsul,43,0
 MPI,Fastor 10mg,24,0
-MPI,Fastor 20mg,48,0
-MPI,Fervit Drop,220,0
+MPI,Fastor 20mg,46,0
+MPI,Fervit Drop,212,0
 MPI,Floragyn Kapsul,24,0
 MPI,GENOCLOM Tablet,0,1
 MPI,Gabapentin 300mg,3,0
@@ -62,78 +62,78 @@ MPI,Glimepiride 3mg kaplet,86,0
 MPI,HEPATIN Kaplet,2,40
 MPI,Hyson Injeksi,160,0
 MPI,Hydrocortison 100 mg inj,475,0
-MPI,IMUNOS Caplet,205,0
+MPI,IMUNOS Caplet,199,0
 MPI,Imunos Plus Kaplet,84,0
 MPI,Imunos Plus Syrup,153,0
-MPI,IMUNOS Syrup,245,0
+MPI,IMUNOS Syrup,239,0
 MPI,Infertreat Injeksi,86,0
 MPI,KETOS Tablet,41,0
 MPI,Kingvit,64,0
 MPI,L-acys 200mg,168,0
 MPI,L-Acys 600mg Effervescent,175,0
-MPI,L-BIO Caplet,215,0
-MPI,L-BIO,189,0
+MPI,L-BIO Caplet,200,0
+MPI,L-BIO,172,0
 MPI,L-Core,67,0
 MPI,L-Cisin Tablet,40,0
-MPI,L-VIT D3 1000 IU TABLET SALUT SELAPUT,17,113
-MPI,L-VIT D3 5000 IU TABLET SALUT SELAPUT,30,0
-MPI,L-Vit D3 Drop,0,70
-MPI,L-Zinc Syrup,148,0
+MPI,L-VIT D3 1000 IU TABLET SALUT SELAPUT,13,113
+MPI,L-VIT D3 5000 IU TABLET SALUT SELAPUT,28,0
+MPI,L-Vit D3 Drop,30,40
+MPI,L-Zinc Syrup,143,0
 MPI,Labalin 150mg,5,0
 MPI,Labalin 75mg,3,0
 MPI,Labumin Kapsul,11,160
 MPI,LACEDIM Dry Injection,52,0
-MPI,LACOLDIN Syrup,330,0
-MPI,LACOLDIN Tablet,107,120
+MPI,LACOLDIN Syrup,312,0
+MPI,LACOLDIN Tablet,221,0
 MPI,LACOPHEN-500 Capsule,19,0
 MPI,LACOPHEN Dry syrup,71,0
 MPI,Lacosib 60,6,20
 MPI,Lacosib 90,42,0
 MPI,LACTOPAIN Injeksi,107,0
 MPI,LACTRIN Kapsul,72,0
-MPI,LAFLANAC-25 Tablet,97,0
-MPI,Lagesil Syrup 100ml,855,0
-MPI,LAGESIL Tablet,67,0
-MPI,LAMESON Injeksi 125mg,19,110
-MPI,Lameson Suspensi,300,0
-MPI,LAMESON-16mg Tablet,20,0
-MPI,LAMESON-4mg Tablet,225,0
-MPI,LAMESON-8mg Tablet,79,20
+MPI,LAFLANAC-25 Tablet,87,0
+MPI,Lagesil Syrup 100ml,812,0
+MPI,LAGESIL Tablet,64,0
+MPI,LAMESON Injeksi 125mg,29,100
+MPI,Lameson Suspensi,278,0
+MPI,LAMESON-16mg Tablet,19,0
+MPI,LAMESON-4mg Tablet,221,0
+MPI,LAMESON-8mg Tablet,73,20
 MPI,Lanos Plus Syrup,253,0
 MPI,Lanos Plus Syrup,113,0
-MPI,LAPIBAL-500 Capsule,57,40
+MPI,LAPIBAL-500 Capsule,54,40
 MPI,LAPIBAL Injeksi,2,0
-MPI,LAPIBION Tablet,45,0
+MPI,LAPIBION Tablet,44,0
 MPI,LAPICEF-500 Capsule,72,0
 MPI,Lapicef Drop,90,0
 MPI,LAPICEF-125 DS,22,20
 MPI,LAPICEF-250 DS,43,0
-MPI,LAPIFED DM syrup,1761,0
-MPI,LAPIFED Expect. syrup,2339,0
-MPI,LAPIFED Syrup,131,420
-MPI,LAPIFED Tablet,45,80
+MPI,LAPIFED DM syrup,1613,0
+MPI,LAPIFED Expect. syrup,2285,0
+MPI,LAPIFED Syrup,458,0
+MPI,LAPIFED Tablet,113,0
 MPI,LAPIFLOX-500 Caplet,13,20
 MPI,Lapigim 2/500,10,20
-MPI,LAPIMOX-250mg DS,266,0
-MPI,LAPIMOX-500 Caplet,17,40
-MPI,LAPIMOX-125mg DS,148,0
+MPI,LAPIMOX-250mg DS,259,0
+MPI,LAPIMOX-500 Caplet,16,40
+MPI,LAPIMOX-125mg DS,142,0
 MPI,Lapimuc Drop,126,0
-MPI,LAPIMUC Tablet,28,1
-MPI,LAPISIV Syrup,179,120
-MPI,LAPISIV-T Tablet,122,0
-MPI,LAPISTAN-500 Caplet,47,20
+MPI,LAPIMUC Tablet,25,1
+MPI,LAPISIV Syrup,263,0
+MPI,LAPISIV-T Tablet,105,0
+MPI,LAPISTAN-500 Caplet,46,20
 MPI,Lapiva 10/160,33,0
 MPI,Lapiva 5/160,38,0
 MPI,LAPIXIME Dry Injection,268,0
-MPI,Laprosin Syrup,173,0
+MPI,Laprosin Syrup,165,0
 MPI,Laprosin Tablet,0,20
-MPI,LASAL Expect. Syrup,723,0
-MPI,Lasal Nebu,350,0
+MPI,LASAL Expect. Syrup,720,0
+MPI,Lasal Nebu,348,0
 MPI,LASAL Syrup,64,60
-MPI,LASAL-2mg Capsule,126,0
-MPI,LASAL-4mg Capsule,37,40
-MPI,Lasal Com,56,0
-MPI,LASGAN Capsule,111,120
+MPI,LASAL-2mg Capsule,120,0
+MPI,LASAL-4mg Capsule,36,40
+MPI,Lasal Com,53,0
+MPI,LASGAN Capsule,88,120
 MPI,LASMALIN Tablet,5,0
 MPI,LATROPIL Syrup,248,0
 MPI,Lavit-C 1000mg,52,0
@@ -146,7 +146,7 @@ MPI,MG-40 Suspensi,13,0
 MPI,MICROGEST 100mg,154,0
 MPI,MICROGEST 200mg,287,0
 MPI,MOVIX 15 mg Tablet,21,0
-MPI,MOVIX 7.5mg Tablet,7,0
+MPI,MOVIX 7.5mg Tablet,6,0
 MPI,MYONEP Tablet,37,0
 MPI,Mecobalamin 500mcg,60,0
 MPI,Meloxicam 15mg,38,0
@@ -154,9 +154,9 @@ MPI,Meloxicam 7.5mg,87,0
 MPI,NATTO-10 Kaplet,49,0
 MPI,NEUCITI 500mg Tablet,7,0
 MPI,NONEMI Tablet,26,0
-MPI,NYSTIN Drop,108,0
+MPI,NYSTIN Drop,105,0
 MPI,NYSTATIN DROP 100.000 IU/ML (HARGA NORMAL),198,0
-MPI,Obeslim Kapsul,69,0
+MPI,Obeslim Kapsul,56,0
 MPI,ODR 4mg Inj,36,0
 MPI,ODR 8mg Inj,75,0
 MPI,ODR Syrup,48,100
@@ -164,14 +164,14 @@ MPI,Optalvit Plus Tablet,110,0
 MPI,Optalvit Syrup,22,20
 MPI,Oskom Kaplet,113,0
 MPI,PIDOVIX Tablet,52,0
-MPI,PROMAVIT Soft-Capsule,156,60
+MPI,PROMAVIT Soft-Capsule,155,60
 MPI,Pseudoephedrine Drops,215,0
 MPI,Pantoprazole 40 mg inj,50,0
-MPI,Pregabalin 75mg,308,0
+MPI,Pregabalin 75mg,58,0
 MPI,Queenvit,42,0
-MPI,Rebamid Tablet,1,80
-MPI,RHELAFEN Forte Suspension,231,0
-MPI,RHELAFEN Suspension,263,20
+MPI,Rebamid Tablet,0,80
+MPI,RHELAFEN Forte Suspension,218,0
+MPI,RHELAFEN Suspension,227,20
 MPI,Rostin 10mg,54,0
 MPI,Rostin 20mg,11,0
 MPI,SUSBY Tablet,185,0
@@ -181,15 +181,15 @@ MPI,TELMISARTAN-80 KAPLET (Generik),37,0
 MPI,TELSTAN 40 MG,13,0
 MPI,TELSTAN 80 MG,3,0
 MPI,TINEURON Kapsul,88,0
-MPI,TIRIZ Kaplet,107,40
-MPI,TIRIZ Oral Drops,72,60
-MPI,Tofedex Tablet,45,120
-MPI,Tofedex Injeksi,181,0
-MPI,TOPAZOL 40mg Injeksi,758,0
+MPI,TIRIZ Kaplet,102,40
+MPI,TIRIZ Oral Drops,47,60
+MPI,Tofedex Tablet,36,120
+MPI,Tofedex Injeksi,151,0
+MPI,TOPAZOL 40mg Injeksi,658,0
 MPI,Tamsulosin 0.4mg,67,0
-MPI,Ulfat Suspensi 500 mg,88,0
+MPI,Ulfat Suspensi 500 mg,87,0
 MPI,VITACUR Syrup,109,0
-MPI,ZEGREN-50 Tablet,238,0
+MPI,ZEGREN-50 Tablet,236,0
 KLP,Atorvastatin 10mg,11,10
 KLP,Atorvastatin 20mg,11,10
 KLP,Colchicine 0.5mg,10,0
@@ -219,9 +219,9 @@ KLP,Paracetamol Drops Lapi ,56,0
 KLP,Pantoprazole 40 mg inj,0,0
 KLP,Tamsulosin 0.4mg,0,0
 KLP,VIT D3 1000 iU,0,0
-KLP,AB-VASK 5 - Tablet,58,40
-KLP,AB-VASK 10 - Tablet,40,80
-KLP,ACLAM-500 Kaplet,40,0
+KLP,AB-VASK 5 - Tablet,57,40
+KLP,AB-VASK 10 - Tablet,80,40
+KLP,ACLAM-500 Kaplet,39,0
 KLP,ACLAM DS 125mg,32,0
 KLP,ACLAM Forte Dry Syrup 250mg,27,0
 KLP,ALEGI Kaplet,83,0
@@ -231,47 +231,47 @@ KLP,AMADIAB-3 Kaplet,6,0
 KLP,AMADIAB-4 Kaplet,19,0
 KLP,ANALTRAM - Kaplet,68,100
 KLP,Apiban Drops,12,60
-KLP,APIALYS Drops,1125,360
-KLP,APIALYS Syrup,1846,0
-KLP,Apetic Drops,450,240
+KLP,APIALYS Drops,1106,360
+KLP,APIALYS Syrup,1831,0
+KLP,Apetic Drops,439,240
 KLP,Apetic Suspensi,362,120
 KLP,Apetic Forte Suspensi,325,120
 KLP,Bromex Injeksi,6,0
 KLP,BESTALIN Syrup,0,0
-KLP,BESTALIN Tablet,9,10
-KLP,BIOSTRUM Syrup,294,0
-KLP,CAL-95 Kaplet,456,100
+KLP,BESTALIN Tablet,8,10
+KLP,BIOSTRUM Syrup,274,0
+KLP,CAL-95 Kaplet,440,100
 KLP,Cal-95 Sirup,81,0
 KLP,Conbis 2.5 mg,6,10
 KLP,Conbis 5 mg,1,10
 KLP,CONBIS - 10 MG,10,0
 KLP,CEBACTAM Injeksi 1 gr,0,0
-KLP,CEFILA 100 - Kapsul,23,10
+KLP,CEFILA 100 - Kapsul,21,10
 KLP,CEFILA 200 - Kapsul,34,0
-KLP,CEFILA DS Drop,186,240
+KLP,CEFILA DS Drop,185,240
 KLP,CEFIM 1g - Injeksi,0,0
 KLP,CIFLON Kaplet,12,0
 KLP,CLINMAS-150 Capsule,0,0
-KLP,CLINMAS-300 Capsule,37,0
+KLP,CLINMAS-300 Capsule,33,0
 KLP,CEPRAZ - 1 gr Injeksi,0,0
 KLP,CLARIHIS Caplet,0,0
 KLP,CRAVOX i.v. 500mg,20,0
 KLP,Cravox i.v. 750mg,45,0
-KLP,CRAVOX-500 Tablet,41,0
+KLP,CRAVOX-500 Tablet,38,0
 KLP,CEFXON Dry Injection,63,0
-KLP,DC2 Kaplet,16,20
+KLP,DC2 Kaplet,14,20
 KLP,DIADIUM Tablet,28,0
 KLP,Desdin Syrup,20,0
 KLP,DOM Kaplet,30,10
 KLP,Enoxrin 4000IU,0,0
 KLP,Enoxrin 6000 IU,0,0
 KLP,Esola Injeksi,110,40
-KLP,Esola 20 mg,30,0
+KLP,Esola 20 mg,29,0
 KLP,Esola 40 mg,54,0
-KLP,Etiro-N,196,0
+KLP,Etiro-N,194,0
 KLP,FOURCEF Injeksi 1 g,0,0
-KLP,Floragyn Kapsul,30,0
-KLP,Fastor 10mg,55,0
+KLP,Floragyn Kapsul,29,0
+KLP,Fastor 10mg,56,0
 KLP,Fastor 20mg,57,0
 KLP,Fervit Drop,140,0
 KLP,GENOCLOM Tablet,10,10
@@ -280,7 +280,7 @@ KLP,HEPATIN Kaplet,49,0
 KLP,Hyson Injeksi,0,0
 KLP,Infertreat Injeksi,23,0
 KLP,IMUNOS Caplet,128,0
-KLP,Imunos Plus Kaplet,17,10
+KLP,Imunos Plus Kaplet,16,10
 KLP,IMUNOS Syrup,183,0
 KLP,Imunos Plus Syrup,134,0
 KLP,ITZOL Capsule,0,0
@@ -291,53 +291,53 @@ KLP,L-Acys 600mg Effervescent,20,20
 KLP,Labalin 75mg,0,0
 KLP,Labalin 150mg,0,0
 KLP,Labumin Kapsul,13,20
-KLP,L-BIO Caplet,73,0
-KLP,L-BIO,244,0
-KLP,Lacosib 60,20,10
+KLP,L-BIO Caplet,72,0
+KLP,L-BIO,242,0
+KLP,Lacosib 60,19,10
 KLP,Lacosib 90,9,10
 KLP,LACEDIM Dry Injection,0,0
 KLP,LACOLDIN Syrup,554,180
-KLP,LACOLDIN Tablet,192,40
+KLP,LACOLDIN Tablet,188,40
 KLP,LACOPHEN-500 Capsule,7,0
 KLP,LACOPHEN Dry syrup,68,0
 KLP,L-Core,7,0
 KLP,L-Cisin Tablet,63,0
 KLP,LAFLANAC-25 Tablet,26,0
-KLP,LASGAN Capsule,39,20
-KLP,Lagesil Syrup 100ml,164,60
+KLP,LASGAN Capsule,38,20
+KLP,Lagesil Syrup 100ml,154,60
 KLP,LAGESIL Tablet,35,20
 KLP,LASMALIN Syrup,0,0
 KLP,LASMALIN Tablet,9,10
 KLP,LAMESON Injeksi 125mg,34,80
-KLP,Lameson Suspensi,126,0
+KLP,Lameson Suspensi,122,0
 KLP,LAMESON-4mg Tablet,110,80
-KLP,LAMESON-8mg Tablet,26,40
+KLP,LAMESON-8mg Tablet,24,40
 KLP,LAMESON-16mg Tablet,40,0
 KLP,Lanos Drops,127,60
 KLP,Lanos Plus Syrup,47,0
 KLP,LAPIBAL Injeksi,5,0
 KLP,LAPIBAL-250 Capsule,0,0
-KLP,LAPIBAL-500 Capsule,62,0
-KLP,Lapicef Drop,52,60
+KLP,LAPIBAL-500 Capsule,60,0
+KLP,Lapicef Drop,50,60
 KLP,LAPICEF-500 Capsule,26,0
 KLP,LAPICEF-125 DS,64,0
 KLP,LAPICEF-250 DS,51,0
-KLP,LAPIFED DM syrup,887,420
+KLP,LAPIFED DM syrup,885,420
 KLP,LAPIFED Syrup,501,240
-KLP,LAPIFED Expect. syrup,2014,900
-KLP,LAPIFED Tablet,254,60
+KLP,LAPIFED Expect. syrup,2006,900
+KLP,LAPIFED Tablet,251,60
 KLP,LAPIFLOX-500 Caplet,55,0
 KLP,Lapigim 2/500,89,0
 KLP,LAPIMOX-500 Caplet,48,20
 KLP,LAPIMOX-125mg DS,26,60
-KLP,LAPIMOX-250mg DS,203,0
-KLP,LAPIBION Tablet,4,0
+KLP,LAPIMOX-250mg DS,202,0
+KLP,LAPIBION Tablet,5,0
 KLP,LAPIROM 1 gr - Injeksi,0,0
 KLP,LAPISIV Syrup,961,180
-KLP,LAPISIV-T Tablet,72,100
-KLP,LAPISTAN-500 Caplet,67,40
+KLP,LAPISIV-T Tablet,70,100
+KLP,LAPISTAN-500 Caplet,60,40
 KLP,Lapimuc Drop,98,40
-KLP,LAPIMUC Tablet,36,0
+KLP,LAPIMUC Tablet,33,0
 KLP,Lapiva 5/160,26,20
 KLP,Lapiva 5/160,81,0
 KLP,Lapiva 10/160,153,0
@@ -346,27 +346,27 @@ KLP,Laprosin Syrup,82,60
 KLP,Laprosin Tablet,26,60
 KLP,LASAL Injection,0,0
 KLP,Lasal Nebu,0,0
-KLP,Lasal Com,54,0
-KLP,LASAL-2mg Capsule,80,0
-KLP,LASAL-4mg Capsule,90,0
-KLP,LASAL Syrup,70,60
-KLP,LASAL Expect. Syrup,710,301
+KLP,Lasal Com,54,40
+KLP,LASAL-2mg Capsule,79,0
+KLP,LASAL-4mg Capsule,89,0
+KLP,LASAL Syrup,69,60
+KLP,LASAL Expect. Syrup,708,301
 KLP,LESIPAR-300 Soft-capsule,0,0
 KLP,LACTOPAIN Injeksi,51,0
 KLP,LACTRIN Kapsul,97,0
 KLP,LATROPIL-800 Caplet,0,0
 KLP,LATROPIL-1200 Caplet,0,0
 KLP,LATROPIL Syrup,0,0
-KLP,L-Vit D3 Drop,0,480
-KLP,L-VIT D3 1000 IU TABLET SALUT SELAPUT,57,40
-KLP,L-VIT D3 5000 IU TABLET SALUT SELAPUT,70,20
+KLP,L-Vit D3 Drop,238,240
+KLP,L-VIT D3 1000 IU TABLET SALUT SELAPUT,56,40
+KLP,L-VIT D3 5000 IU TABLET SALUT SELAPUT,68,20
 KLP,Lavit-C 500mg,0,0
 KLP,Lavit-C 1000mg,0,0
 KLP,Lavit-C 500mg Kaplet,0,0
 KLP,Lavit-C 1000mg Kaplet,0,0
-KLP,L-Zinc Syrup,127,0
-KLP,MICROGEST 100mg,32,120
-KLP,MICROGEST 200mg,144,60
+KLP,L-Zinc Syrup,125,0
+KLP,MICROGEST 100mg,31,120
+KLP,MICROGEST 200mg,132,60
 KLP,MECOLA Kaplet,54,0
 KLP,MECOLA Forte Kaplet,0,0
 KLP,MG-40 Suspensi,0,0
@@ -375,7 +375,7 @@ KLP,MYONEP Tablet,21,20
 KLP,MEROTIK Injeksi 0.5g,40,0
 KLP,MEROTIK Injeksi 1g,36,0
 KLP,MOVIX 7.5mg Tablet,0,0
-KLP,MOVIX 15 mg Tablet,27,0
+KLP,MOVIX 15 mg Tablet,25,0
 KLP,Metzol Injeksi,178,0
 KLP,NEUCITI 500mg Tablet,2,0
 KLP,NONEMI Tablet,27,0
@@ -389,13 +389,13 @@ KLP,Oskom Kaplet,21,0
 KLP,Optalvit Syrup,26,0
 KLP,Optalvit Plus Tablet,19,0
 KLP,PIDOVIX Tablet,0,0
-KLP,PROMAVIT Soft-Capsule,233,60
+KLP,PROMAVIT Soft-Capsule,228,60
 KLP,Queenvit,37,100
 KLP,Rebamid Tablet,53,0
 KLP,RHELAFEN Suspension,536,0
-KLP,RHELAFEN Forte Suspension,250,60
+KLP,RHELAFEN Forte Suspension,246,60
 KLP,Rostin 10mg,23,10
-KLP,Rostin 20mg,82,0
+KLP,Rostin 20mg,69,0
 KLP,SIMBADO-10mg Caplet,0,0
 KLP,SUSBY Tablet,25,20
 KLP,TICURING Caplet,0,0
@@ -404,13 +404,13 @@ KLP,Tofedex Tablet,49,40
 KLP,TINEURON Kapsul,52,0
 KLP,TOPAZOL 40mg Injeksi,57,20
 KLP,TIRIZ Oral Drops,51,20
-KLP,TIRIZ Kaplet,47,20
+KLP,TIRIZ Kaplet,46,20
 KLP,TELSTAN 40 MG,17,0
 KLP,TELSTAN 80 MG,23,0
 KLP,Tamsin SR Tablet,16,0
 KLP,Ulfat Suspensi 500 mg,71,20
 KLP,VITACUR Syrup,91,0
-KLP,ZEGREN-50 Tablet,35,0
+KLP,ZEGREN-50 Tablet,33,0
 PVL,AB-VASK 10 - Tablet,41,0
 PVL,AB-VASK 5 - Tablet,17,0
 PVL,ACLAM DS 125mg,46,0
